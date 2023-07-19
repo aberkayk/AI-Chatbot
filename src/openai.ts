@@ -1,3 +1,3 @@
 export const openai_key = {
-  apiKey: "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",
+  apiKey: "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",
 };
