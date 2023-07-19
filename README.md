@@ -17,10 +17,10 @@
   <li>System scrolls down automatically while generating text.</li>
 </ul>
 
-![](./exports/startingPage.png)
-<br>
-
-![](./exports/startingPage.png)
-
 <br>
 ![](./exports/recipe.gif)
+<br>
+![](./exports/startingPage.png)
+<br>
+![](./exports/startingPage.png)
+<br>
