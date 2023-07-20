@@ -18,18 +18,16 @@
   <li>You can ask for anything about food such as "How to cook Lasagna?".</li>
 </ul>
 
-<br>
+<hr>
 
 ![](./startingPage.png)
 
 <hr>
-<br>
 
 ![](./otherSubjects.png)
 
 <hr>
-<br>
 
 ![](./recipe.gif)
 
-<br>
+<hr>
