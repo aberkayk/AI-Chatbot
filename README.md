@@ -22,10 +22,12 @@
 
 ![](./startingPage.png)
 
+<hr>
 <br>
 
 ![](./otherSubjects.png)
 
+<hr>
 <br>
 
 ![](./recipe.gif)
