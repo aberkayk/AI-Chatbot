@@ -18,9 +18,15 @@
 </ul>
 
 <br>
-![](./exports/recipe.gif)
+
+![](./startingPage.png)
+
 <br>
-![](./exports/startingPage.png)
+
+![](./otherSubjects.png)
+
 <br>
-![](./exports/startingPage.png)
+
+![](./recipe.gif)
+
 <br>
