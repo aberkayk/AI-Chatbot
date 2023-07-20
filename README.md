@@ -1,6 +1,5 @@
 <h1>NextJS & Typescript AI Chatbot</h1>
-<br>
-<h5>This AI is only focused on food and cooking. </h5>
+<h3>This AI is only focused on food and cooking. </h3>
 <h3>What's used in this app?</h3>
 <ul style="font-size: 18px;">
   <li>React</li>
@@ -12,9 +11,11 @@
   <li>React Anchor Link Smooth Scroll</li>
 </ul>
 
+<h3>Features</h3>
 <ul style="font-size: 18px;">
   <li>You can stop generating text by clicking stop button.</li>
   <li>System scrolls down automatically while generating text.</li>
+  <li>You can ask for anything about food such as "How to cook Lasagna?".</li>
 </ul>
 
 <br>
